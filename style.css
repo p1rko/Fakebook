@@ -1,0 +1,30 @@
+body {
+    background-color: skyblue;
+}
+
+p {
+    font-family: Calibri;
+    color: blue;
+}
+b {
+    font-size: 20px;
+    color: darkblue;
+}
+input {
+    background: lightblue;
+    border: darkblue solid 1.5px;
+}
+
+hr {
+    border: 3px solid darkblue;
+    border-radius: 8px;
+}
+
+img {
+    width: 300px;
+    border: lime dotted 5px;
+}
+
+img:hover {
+    border: lime solid 5px;
+}
